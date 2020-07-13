@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cloudmins_portpolio_app/static/css/main.dd1546f6.chunk.css",
+    "main.js": "/cloudmins_portpolio_app/static/js/main.85268251.chunk.js",
+    "main.js.map": "/cloudmins_portpolio_app/static/js/main.85268251.chunk.js.map",
+    "runtime-main.js": "/cloudmins_portpolio_app/static/js/runtime-main.3aa51a0c.js",
+    "runtime-main.js.map": "/cloudmins_portpolio_app/static/js/runtime-main.3aa51a0c.js.map",
+    "static/js/2.b57e0a01.chunk.js": "/cloudmins_portpolio_app/static/js/2.b57e0a01.chunk.js",
+    "static/js/2.b57e0a01.chunk.js.map": "/cloudmins_portpolio_app/static/js/2.b57e0a01.chunk.js.map",
+    "index.html": "/cloudmins_portpolio_app/index.html",
+    "precache-manifest.5b7c2b67ccb538b573043006cee20055.js": "/cloudmins_portpolio_app/precache-manifest.5b7c2b67ccb538b573043006cee20055.js",
+    "service-worker.js": "/cloudmins_portpolio_app/service-worker.js",
+    "static/css/main.dd1546f6.chunk.css.map": "/cloudmins_portpolio_app/static/css/main.dd1546f6.chunk.css.map",
+    "static/js/2.b57e0a01.chunk.js.LICENSE.txt": "/cloudmins_portpolio_app/static/js/2.b57e0a01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3aa51a0c.js",
+    "static/js/2.b57e0a01.chunk.js",
+    "static/css/main.dd1546f6.chunk.css",
+    "static/js/main.85268251.chunk.js"
+  ]
+}
